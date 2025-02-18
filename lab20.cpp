@@ -15,8 +15,6 @@ int main(){
 	Equipment shield(0,-1,7);
 	Equipment armor(25,-2,2);
 
-
-	
 	
 	
 	char eq;	
